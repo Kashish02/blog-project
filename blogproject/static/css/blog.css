@@ -1,0 +1,50 @@
+.content{
+	width: 60%;
+	float: left;
+	padding: 0 0 0 30px;
+	background:salmon;
+	height: 100%;
+
+
+}
+.sidebar{
+	width: 35%;
+	float:right;
+	padding: 10px;
+	background:crimson;
+	height: 100%;
+}
+h1{
+	text-align: center;
+	border-bottom: 1px solid black;
+	padding-bottom: 7px;
+
+}
+body{
+	color: white;
+	background:salmon;
+
+}
+
+#date{
+	color: crimson;
+	font-size: 12px;
+	font-style: italic;
+}
+a{
+	color:white;
+}
+#ch{
+	color:crimson;
+	font-size: 20px;
+	font-style: italic;
+	border-bottom: 1px solid yellow;
+}
+.tagbox{
+	border: 1px solid orange;
+}
+#pcount{
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+}
